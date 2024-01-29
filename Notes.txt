@@ -1,0 +1,7 @@
+Please find all required documents such as:
+
+- All data files used in the project as csv files
+- The main project jupyter notebook titled "Online Education.ipynb" with explanation as markdown
+- The instascraper jupyter notebook titled "InstaScraper.ipynb" used to collect data
+- R file for the second part of the project titled "EngagementRate_TS.R"
+- Report for the R file part
